@@ -1,9 +1,10 @@
 # Laravel News
 
-Laravel News started in 2012 by @ericlbarnes as a simple blog hosting news, tutorials, and code examples. Since then it has grown into a full-fledged news site covering all the latest happenings in the Laravel community.
+Laravel News started in 2012 by [@ericlbarnes](https://github.com/ericlbarnes) as a simple blog hosting news, tutorials, and code examples. Since then it has grown into a full-fledged news site covering all the latest happenings in the Laravel community.
 
 ## Follow us
 
+* [Laravel Newsletter](https://laravel-news.com/newsletter)
 * [Linkedin](https://www.linkedin.com/company/laravel-news)
 * [Youtube](https://www.youtube.com/c/Laravel-news)
 * [Telegram](https://t.me/laravelnews)
